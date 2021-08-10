@@ -65,5 +65,8 @@
     "semantic-release": "^17.4.4",
     "ts-node": "^10.2.0",
     "typedoc": "^0.21.5"
+  },
+  "dependencies": {
+    "node-fetch": "^3.0.0-beta.10"
   }
 }
