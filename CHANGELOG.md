@@ -1,5 +1,11 @@
 # Changelog
 
+### [1.0.1](https://github.com/b2broker/nbrb/compare/v1.0.0...v1.0.1) (2021-12-12)
+
+### Dependencies
+
+- upgrade `node-fetch` to `v3.1.0` ([a744173](https://github.com/b2broker/nbrb/commit/a744173a8e79da94cda56bd113565fc3c5f8c515))
+
 ## 1.0.0 (2021-08-11)
 
 ### Features

@@ -1,6 +1,6 @@
 {
   "name": "nbrb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript library for the National Bank of the Republic of Belarus API",
   "main": "build/index.js",
   "type": "module",
